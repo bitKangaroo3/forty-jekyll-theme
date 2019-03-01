@@ -5,7 +5,7 @@ email: donotsendemail@me.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/mysite-demo" # the subpath of your site, e.g. /blog
 url: "https://bitkangaroo3.github.io" # the base hostname & protocol for your site
-author:Tomoki
+author: Tomoki
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
